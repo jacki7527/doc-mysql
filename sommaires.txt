@@ -1,0 +1,21 @@
+foreign_key
+create_table
+data_create
+data_read
+data_update_association
+transaction
+aggregat
+correlation
+	recursive
+trigger
+view
+window
+
+SELECT
+FROM
+JOIN ON
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+LIMIT
