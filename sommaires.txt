@@ -1,15 +1,23 @@
-foreign_key
-create_table
-data_create
-data_read
-data_update_association
-transaction
-aggregat
-correlation
-	recursive
-trigger
-view
-window
+SQLITE
+	foreign_key
+	create_table
+	data_create
+	data_read
+	data_update_association
+	transaction
+	aggregat
+	correlation
+		recursive
+	trigger
+	view
+	window
+MYSQL
+	fullText
+	datetime	
+	geospacial
+	procedure
+	json
+	user
 
 SELECT
 FROM
