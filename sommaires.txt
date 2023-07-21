@@ -1,4 +1,5 @@
 SQLITE
+	intro
 	foreign_key
 	create_table
 	data_create
